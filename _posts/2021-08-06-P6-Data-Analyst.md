@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Prédiction de la consommation d'électricité
-subtitle: A la découverte des séries temporelles
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+title: Présenter des résultats
+subtitle: Un projet sur le sujet de son choix
 tags: [projet, formation, analysis]
 ---
 
