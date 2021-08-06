@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Présenter des résultats
-subtitle: Un projet sur le sujet de son choix
+subtitle: Accès à l'éducation à travers le monde
+thumbnail-img: /assets/img/school.jpg
 tags: [projet, formation, analysis]
 ---
 
