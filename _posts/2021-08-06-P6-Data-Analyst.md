@@ -23,16 +23,11 @@ Parmi les solutions à adopter, l'accompagnement des pays nouvellement indépend
 
 *Le rapport de ce projet est disponible en format pdf et un dashboard a été crée avec les différentes variables utilisées pour la réalisation de l'étude*: [DashBoard](https://public.tableau.com/views/Acceslducationtraverslemonde/Tableaudebord6?:language=fr&:display_count=y&:origin=viz_share_link)
 
-## Compétences utilisées dans ce projet
-
-Ce projet a été réalisé dans le cadre de ma formation de Data Analyst.
-
-Les compétences acquises lors de ce projet sont :
+## Compétences acquises dans ce projet
 
 - Communiquer ses résultats à l'aide de visualisation
 - Rédiger un rapport d'analyse statistique.
 
-Ce projet a été soutenu et validé le 12 avril 2021.
 
 ## Les notebooks
 
@@ -40,3 +35,5 @@ Ce projet a été soutenu et validé le 12 avril 2021.
 - [Notebook EDA](https://github.com/Sylvariane/acces_education/blob/main/2_data_EDA.ipynb), 
 - [Notebook Modélisation](https://github.com/Sylvariane/acces_education/blob/main/3_data_modeling.ipynb)
 - [Notebook Analyses des modèles](https://github.com/Sylvariane/acces_education/blob/main/4_Model_analysis.ipynb)
+
+Ce projet a été soutenu et validé le 12 avril 2021.
