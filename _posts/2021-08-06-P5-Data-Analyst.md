@@ -2,6 +2,7 @@
 layout: post
 title: Prédiction de la consommation d'électricité
 subtitle: A la découverte des séries temporelles
+thumbnails : 
 tags: [projet, formation, analysis]
 ---
 
