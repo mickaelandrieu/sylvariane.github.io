@@ -5,7 +5,6 @@ subtitle: Présentation d'un projet mélant analyses de données et modélisatio
 thumbnail-img: /assets/img/billets.jpg
 tags: [projet, formation, analysis]
 ---
-Projet visible ici : [Notebook](https://github.com/Sylvariane/detection_faux_billets/blob/master/P06_01_code.ipynb)
 
 ## Présentation des résultats
 
@@ -19,13 +18,14 @@ Pour créer l'algorithme, il fallait déterminer quelles étaient les variables 
 
 
 
-## Syllabus 
+## Compétences validées : 
 
-Ce projet a été réalisé dans le cadre de ma formation de Data Analyst avec OpenClassRooms. Ce projet est en cours de réalisation.
-A l'issue de ce projet, les compétences acquises sont : 
 - l'interprétation d'une ACP
 - la modélisation grâce à une régression logistique
 - la réalisation d'une ACP
 - l'utilisation d'un algorithme de clustering de type KMeans.
+
+## Le notebook
+- [Notebook](https://github.com/Sylvariane/detection_faux_billets/blob/master/P06_01_code.ipynb)
 
 Ce projet a été présenté et validé par un évaluateur le 28 octobre 2020.
