@@ -25,9 +25,7 @@ Une fois ces dispositions prises, il était possible de tester des modèles pour
 
 Le modèle de Holt-Winters est celui qui a obtenu les meilleurs résultats lors de l'évalution du modèle (MAE, MAPE, MSE) par rapport au modèle SARIMA. Cependant, le modèle SARIMA a su capter l'importante baisse mesurée au début de l'anneé 2020.
 
-## Compétences validées :
-
-Ce projet a été réalisé dans le cadre de ma formation de Data Analyst.
+## Compétences acquises :
 
 Les compétences acquises lors de ce projet sont :
 - Maîtriser les méthodes de lissage et de Holt-Winters
