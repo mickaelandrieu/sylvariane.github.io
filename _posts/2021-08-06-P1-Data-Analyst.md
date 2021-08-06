@@ -2,9 +2,8 @@
 layout: post
 title: Réalisation d'une étude de santé publique
 subtitle: Résumé de mon premier projet de data analyse
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+cover-img: /assets/img/illustration_famine.jpg
+thumbnail-img: /assets/img/fao_logo.png
 tags: [projet, formation, analysis]
 ---
 
@@ -40,3 +39,5 @@ Le but de ce projet était d'acquérir les compétences suivantes :
 - Maîtriser les bases de Python
 
 Ce projet a été évalué le 20 juillet 2020 et validé par un évaluateur.
+
+*source de l'illustration :* [!ici](http://lavoixdesmots.unblog.fr/2012/08/31/images-de-blog/)
