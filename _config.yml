@@ -36,15 +36,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "cecile.gltslmcs@gmail.com"
+email: "cecile.gltslmcs@gmail.com"
 # facebook: deanattali
-  github: sylvariane
+github: sylvariane
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: cecile.gltslmcs
+linkedin: cecile.gltslmcs
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -68,9 +68,9 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
@@ -90,13 +90,13 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "machine,learning,IA,AI,neurosciences,data"
 
 # --- Colours / background image --- #
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#F08080"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
@@ -190,7 +190,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
