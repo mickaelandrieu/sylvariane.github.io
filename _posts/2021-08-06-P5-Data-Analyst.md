@@ -6,8 +6,6 @@ thumbnail-img : /assets/img/electricity.jpg
 tags: [projet, formation, analysis]
 ---
 
-*Projet disponible ici :* [Notebook](https://github.com/Sylvariane/prediction_conso_electrique/blob/main/P9_01_code.ipynb)
-
 ## Détails du projet
 
 Après avoir récupéré les données de la consommation d'électricité et de la température en DJU, il fallait représenter ces deux séries temporelles puis ensuite corriger la consommation d'électricité en fonction de la température par l'intermédiaire d'une régression linéaire. 
@@ -27,7 +25,7 @@ Une fois ces dispositions prises, il était possible de tester des modèles pour
 
 Le modèle de Holt-Winters est celui qui a obtenu les meilleurs résultats lors de l'évalution du modèle (MAE, MAPE, MSE) par rapport au modèle SARIMA. Cependant, le modèle SARIMA a su capter l'importante baisse mesurée au début de l'anneé 2020.
 
-## Syllabus 
+## Compétences validées :
 
 Ce projet a été réalisé dans le cadre de ma formation de Data Analyst.
 
@@ -36,6 +34,9 @@ Les compétences acquises lors de ce projet sont :
 - Maîtriser les notions de composantes et de modèles de décomposition
 - Maîtriser les modèles ARMA
 - Représenter graphiquement une série temporelle
+
+## Le notebook : 
+- [Notebook](https://github.com/Sylvariane/prediction_conso_electrique/blob/main/P9_01_code.ipynb)
 
 Ce projet a été soutenu et validé le 7 janvier 2021.
 
