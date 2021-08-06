@@ -20,7 +20,7 @@ Une fois les données obtenues, un algorithme de régression linéaire multiple 
 ![graph_residus_t](https://user-images.githubusercontent.com/64648386/115592500-96660680-a2d3-11eb-9506-3da948ac4317.png)
 
 
-## Syllabus
+## Compétences validées :
 
 Ce projet a été réalisé dans le cadre de ma formation de Data Analyst.
 
@@ -30,4 +30,4 @@ Les compétences acquises lors de ce projet sont :
 - Modéliser des données
 
 
-Ce projet a été présenté et évalué le 7 décembre 2020.
+Ce projet a été présenté et évalué le 7 décembre 2020
