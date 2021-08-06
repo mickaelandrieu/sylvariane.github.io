@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: A propos de moi
+# subtitle: Qui suis-je exactement ?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Bonjour à tous,
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Je m'appelle Cécile Guillot. Je suis une touche-à-tout passionnée par les neurosciences, la psychologie cognitive et les données.</br>
+Je possède une licence de psychologie, un master de neurosciences et sciences du comportement et j'ai trouvé pendant 3 ans comme ingénieure d'études dans un laboratoire universitaire. Après ce bref passage dans le monde de la recherche universitaire, j'ai décidé de m'orienter vers les data sciences. Je possède une certification de Data Analyst et une certification d'Ingénieur Machine Learning (en cours d'obtention).</br>
+Sur ce site, je vous propose avant tout de partager mes travaux en tant que data analyst et ingénieure machine learning.
 
-What else do you need?
+### Mon parcours en bref
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- **2014** : Licence de psychologie (*Université de Reims-Champagne Ardennes*)
+- **2016** : Master Recherche Neurosciences et Science du comportement (*Université de Caen*)
+- **2016-2019** : Doctorat en biologie, santé et environnement (*Université de Lorraine - Metz*) | Thèse non soutenue
+- **2021** : Data Analyst (*OpenClassrooms - ENSAE/ENSAI*) | Titre RNCP de niveau 6
+- **2022** : Ingénieure Machine Learning (*OpenClassrooms - Centrale Supelec*) | Titre RNCP de niveau 7
