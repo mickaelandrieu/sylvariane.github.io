@@ -2,9 +2,7 @@
 layout: post
 title: Détection de faux billets
 subtitle: Présentation d'un projet mélant analyses de données et modélisation
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/billets.png
 tags: [projet, formation, analysis]
 ---
 Projet visible ici : [Notebook](https://github.com/Sylvariane/detection_faux_billets/blob/master/P06_01_code.ipynb)
