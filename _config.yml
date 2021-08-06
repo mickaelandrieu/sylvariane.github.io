@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: De la data, du Machine Learning et du Deep Learning
 
 # Your name to show in the footer
 author: Cécile Guillot
@@ -15,13 +15,13 @@ author: Cécile Guillot
 
 navbar-links:
   A propos de moi: "aboutme"
-  Resources:
+  Ressources:
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/data_illustration.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
