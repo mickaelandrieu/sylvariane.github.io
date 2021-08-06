@@ -2,6 +2,7 @@
 layout: post
 title: Analyse des ventes d'une entreprise
 subtitle: Second projet de la formation de Data Analyst
+thumbnail-img: /assets/img/books.jpg
 tags: [data analysis, projet, formation]
 comments: true
 ---
