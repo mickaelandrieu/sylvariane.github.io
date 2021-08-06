@@ -19,3 +19,8 @@ Sur ce site, je vous propose avant tout de partager mes travaux en tant que data
 - **2016-2019** : Doctorat en biologie, santé et environnement (*Université de Lorraine - Metz*) - Thèse non soutenue
 - **2021** : Data Analyst (*OpenClassrooms - ENSAE/ENSAI*) - Titre RNCP de niveau 6
 - **2022** : Ingénieure Machine Learning (*OpenClassrooms - Centrale Supelec*) - Titre RNCP de niveau 7
+
+### Mes diplômes
+
+![data_analyst_diploma](![diplome_Data_analyst](https://user-images.githubusercontent.com/64648386/128571696-db602940-4f27-4c3c-bacb-e19066739b0c.jpg)
+
