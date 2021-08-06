@@ -40,4 +40,4 @@ Le but de ce projet était d'acquérir les compétences suivantes :
 
 Ce projet a été évalué le 20 juillet 2020 et validé par un évaluateur.
 
-*source de l'illustration :* [!ici](http://lavoixdesmots.unblog.fr/2012/08/31/images-de-blog/)
+*source de l'illustration :* [ici](http://lavoixdesmots.unblog.fr/2012/08/31/images-de-blog/)
