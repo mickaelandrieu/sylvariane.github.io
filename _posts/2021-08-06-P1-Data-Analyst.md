@@ -2,7 +2,7 @@
 layout: post
 title: Réalisation d'une étude de santé publique
 subtitle: Résumé de mon premier projet de data analyse
-cover-img: /assets/img/illustration_famine.jpg
+cover-img: /assets/img/illustraion_famine.jpg
 thumbnail-img: /assets/img/fao_logo.png
 tags: [projet, formation, analysis]
 ---
