@@ -8,7 +8,7 @@ Bonjour à tous,
 
 Je m'appelle Cécile Guillot. Je suis une touche-à-tout passionnée par les neurosciences, la psychologie cognitive et les données.</br>
 Je possède une licence de psychologie, un master de neurosciences et sciences du comportement et j'ai trouvé pendant 3 ans comme ingénieure d'études dans un laboratoire universitaire. Après ce bref passage dans le monde de la recherche universitaire, j'ai décidé de m'orienter vers les data sciences. Je possède une certification de Data Analyst et une certification d'Ingénieur Machine Learning (en cours d'obtention).</br>
-Sur ce site, je vous propose avant tout de partager mes travaux en tant que data analyst et ingénieure machine learning.
+Sur ce site, je vous propose avant tout de partager mes travaux en tant que data analyst et ingénieure Machine Learning.
 
 ### Mon parcours en bref
 
