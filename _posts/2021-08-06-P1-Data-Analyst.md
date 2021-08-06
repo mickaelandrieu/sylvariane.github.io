@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/fao_logo.png
 tags: [projet, formation, analysis]
 ---
 
-Le but de ce projet était d'acquérir les bases du langage Python ainsi que ces librairies en lien avec les data sciences : Numpy et Pandas. Une partie du projet était aussi fait de manière à manipuler le langage SQL dans le but de construire et consulter une base de données. L'un des concepts importants du projet était de comprendre les principes de l'algèbre relationnelle.</br>
+Le but de ce projet était d'acquérir les bases du langage Python ainsi que ces librairies en lien avec les data sciences : Numpy et Pandas. Une partie du projet était aussi fait de manière à manipuler le langage SQL dans le but de construire et consulter une base de données. L'un des concepts importants du projet était de comprendre les principes de l'algèbre relationnelle.
 
 *Notebook du projet disponible ici :* [GitHub](https://github.com/Sylvariane/La-faim-dans-le-monde/blob/master/P03_01_coder%C3%A9ponses.ipynb)
 
