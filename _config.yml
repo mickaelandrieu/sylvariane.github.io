@@ -15,7 +15,8 @@ author: Cécile Guillot
 
 navbar-links:
   A propos de moi: "aboutme"
-  Ressources:
+  Ressources: 
+    - Mon GitHub : "https://github.com/Sylvariane"
 
 # --- Logo --- #
 
