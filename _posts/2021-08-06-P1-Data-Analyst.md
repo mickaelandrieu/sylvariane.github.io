@@ -4,6 +4,7 @@ title: Réalisation d'une étude de santé publique
 subtitle: Résumé de mon premier projet de data analyse
 thumbnail-img: /assets/img/fao_logo.png
 tags: [projet, formation, analysis]
+comments: true
 ---
 
 Le but de ce projet était d'acquérir les bases du langage Python ainsi que ces librairies en lien avec les data sciences : Numpy et Pandas. Une partie du projet était aussi fait de manière à manipuler le langage SQL dans le but de construire et consulter une base de données. L'un des concepts importants du projet était de comprendre les principes de l'algèbre relationnelle.
