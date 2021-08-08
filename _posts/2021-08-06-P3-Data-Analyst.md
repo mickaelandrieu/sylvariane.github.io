@@ -4,6 +4,7 @@ title: Détection de faux billets
 subtitle: Présentation d'un projet mélant analyses de données et modélisation
 thumbnail-img: /assets/img/billets.jpg
 tags: [projet, formation, analysis]
+comments: true
 ---
 
 ## Présentation des résultats
