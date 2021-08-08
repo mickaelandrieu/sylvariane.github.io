@@ -3,8 +3,8 @@ layout: post
 title: Prédiction de revenus
 subtitle: Projet associant statistiques inférentielles et probabilités
 thumbnail-img: /assets/img/income.jpg
-
 tags: [projet, formation, analysis]
+comments: true
 ---
 ## Détail du projet
 
