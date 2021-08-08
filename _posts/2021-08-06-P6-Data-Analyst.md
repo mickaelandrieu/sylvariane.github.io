@@ -4,6 +4,7 @@ title: Présenter des résultats
 subtitle: Accès à l'éducation à travers le monde
 thumbnail-img: /assets/img/school.jpg
 tags: [projet, formation, analysis]
+comments: true
 ---
 
 ## Présentation du projet
