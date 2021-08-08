@@ -18,9 +18,8 @@ Sur ce site, je vous propose avant tout de partager mes travaux en tant que data
 
 - **2016** : Master Recherche Neurosciences et Science du comportement (*Université de Caen*)
 
-=> Lien entre cinétoses, anxiété et ménopause (Mémoire de M1 validé avec Mention TB)
-
-=> Rythmes biologies, dépression et troubles de l'humeur (Mémoire de M2 avec Mention B - [Brain Stimulation, 2017](https://www.brainstimjrnl.com/article/S1935-861X(17)30388-1/fulltext#relatedArticles))
+  - Lien entre cinétoses, anxiété et ménopause (Mémoire de M1 validé avec Mention TB)
+  - Rythmes biologiques, dépression et troubles de l'humeur (Mémoire de M2 avec Mention B - [Brain Stimulation, 2017](https://www.brainstimjrnl.com/article/S1935-861X(17)30388-1/fulltext#relatedArticles))
 
 - **2021** : Data Analyst (*OpenClassrooms - ENSAE/ENSAI*) - Titre RNCP de niveau 6
 
