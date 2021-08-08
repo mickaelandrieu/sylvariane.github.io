@@ -4,6 +4,7 @@ title: Production d'une étude de marché
 subtitle: A la découverte des statistiques et de la classification hiérarchique
 thumbnail-img: /assets/img/chicken.jpg
 tags: [projet, formation, analysis]
+comments: true
 ---
 ## Détail du projet
 
