@@ -1,0 +1,40 @@
+---
+layout: post
+title: Segmentation de la clientèle d'un site de e-commerce
+subtitle: Quand le ML vient en aide à une équipe de marketing
+cover-img: /assets/img/marketing.jpg
+thumbnail-img: /assets/img/marketing.jpg
+tags: [projet, formation, ML, machine, learning, EDA, unsupervised, non-supervisé]
+comments: true
+---
+Bonjour à tous ! 
+
+Aujourd'hui, je vous retrouve pour vous partager un projet réalisé et validé depuis le 5 septembre. Il s'agissait de faire une segmentation pour l'équipe marketing d'un site d'e-commerce : Olist.
+Le jeu de données utilisé est téléchargeable ici : ![dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)
+
+## Analyse des données
+
+Avant de commencer l'analyse des données qui se trouve dans le notebook (POlist_01_notebookexploration). J'ai regardé les jeux de données un par un pour voir la manière dont ils étaient composés. Cette analyse se trouve dans un notebook annexe qui se nomme POlist_analysepreliminaire.
+Une fois cela effectué, il était demandé de faire une segmentation RFM (![explication ici](https://www.wizishop.fr/blog/dossier-la-segmentation-clients-la-methode-rfm-partie-2.html)). 
+On remarque une chose intéressante dans ce jeu de données, c'est que les clients ont tendance à n'effectuer qu'un seul achat. Cela rend donc la fréquence et dans une moindre mesure la récence comme étant moins discriminante. Le choix a été de créer les modèles de segmentation sur deux jeux de données :
+- un jeu de données total comprenant l'ensemble des clients et qui se trouve dans le notebook POlist_segmentation_totaldata
+- un jeu de données ré-échantillonée conservant les clients avec deux achats et plus ainsi que 40% de clients avec un seul achat. Cette étude est celle présentée dans le notebookt POlist_02_notebooktest et aussi dans les autres documents (pdf et rapport sous forme de notebook)
+
+## Modélisation
+
+La modélisation ici s'appuyait sur des méthodes d'apprentissage non-supervisé. La méthode a utilisé ici est légèrement différente que dans le cas d'un apprentissage supervisé.
+Tout d'abord, on va effectuer une réduction de dimension quand cela est intéressant. On va utiliser l'analyse en composantes principales pour réduire nos dimensions au nombre de deux. Cela facilite la visualisation des données mais va permettre de réduire le temps d'exécution de l'algorithme. Il est aussi possible d'effectuer d'autres réductions comme le T-SNE ou le NMF.
+Le nombre de clusters est déterminé par l'analyse de la distorsion et la méthode du coude. Le nombre de clusters retenu est de 4. Cela a l'avantage d'être actionnable pour une équipe de marketing. 
+Les modèles de clustering choisis sont le K-Means et le K-Prototype. Le K-Prototype permet d'inclure des données catégorielles, chose qui n'est pas faisable avec un K-Means. Le DB Scan a été testé au préalable mais cette méthode n'est pas adaptée à notre jeu de données.
+Enfin les modèles ont été évalués à l'aide de plusieurs metrics : le score de silhouette et le score de Davies-Bouldin.
+
+## Compétences acquises : 
+- Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
+- Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
+- Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
+- Évaluer les performances d’un modèle d'apprentissage non supervisé
+
+## Repo GitHub : 
+- ![Ici](https://github.com/Sylvariane/segmentez_les_clients)
+- ![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Sylvariane/segmentez_les_clients/HEAD)
+
